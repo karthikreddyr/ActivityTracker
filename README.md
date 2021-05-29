@@ -1,4 +1,4 @@
-#ActivityTracker First 
+#ActivityTracker 
 
 Stepup Project in Local
 1. npm install
